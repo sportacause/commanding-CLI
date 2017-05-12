@@ -1,17 +1,25 @@
 Command Line Sheetsheet
 
+man the-command-you-want-help-with = help page for commands
+(does not work in Git Bash)
 
-pwd | print working directory (win, linux)
+pwd = print working directory (win, linux)
 
-cd | current directory or change directory (win)
+cd = current directory or change directory (win)
 
-cd .. | go up one folder (win)
+cd .. = go up one folder (win)
 
-cd /folder/subfolder | will take you to subfolder if folder is in home (win, linux) ?c
+cd /folder/subfolder = will take you to subfolder if folder is in home (win, linux) ?c
 
-ls | list of files in current directory (win, linux)
+ls = list of files in current directory (win, linux)
 
-rm | remove file (win, linux)
+ls characters* = will list the files that start with the characters preceeding the asterisk
+
+ls *characters = will list the files that end with the characters that come after the asterisk
+
+rm = remove file (win, linux)
+
+
 
 
 
