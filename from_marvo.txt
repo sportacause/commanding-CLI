@@ -1,5 +1,10 @@
-Howdy,
+﻿Howdy,
 So I’ve done some git practice tonight in anticipation of a busy week with client work and my python courses.
 The DS Study Group sounds very cool! Looking forward to hearing how it goes.
 Cheers,
 Marvo
+
+Will do. Good luck this week. 
+Have you already reach loops in your Python learning? 
+If you know any of the CLI command for mac, don't hesitate to add as we go.
+Best, Cris
